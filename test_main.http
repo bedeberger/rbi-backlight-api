@@ -1,0 +1,10 @@
+# Test your FastAPI endpoints
+
+GET http://rasp-touch:8000/brightness
+Accept: application/json
+
+###
+
+GET http://rasp-touch:8000/power
+
+###
